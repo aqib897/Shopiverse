@@ -84,7 +84,7 @@ Shopiverse/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shopiverse.git
+   git clone https://github.com/aqib897/shopiverse.git
    ```
 2. Open `index.html` in your browser  
    **OR**  
