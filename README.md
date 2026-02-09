@@ -39,7 +39,7 @@ The UI emphasizes clarity, responsiveness, and accessibility, making it easy for
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](public/images/home page.png)
+![Home Page](./home.png)
 
 ### Products Page
 ![Products](./product.png)
